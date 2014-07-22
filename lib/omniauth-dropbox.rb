@@ -1,0 +1,2 @@
+require 'omniauth/strategies/dropbox'
+
